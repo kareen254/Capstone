@@ -1,3 +1,2 @@
 # Capstone
-this is a test
-for editing this file
+This is a repository for all my CAPSTONE PROJECT Assignments
